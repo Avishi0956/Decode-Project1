@@ -42,21 +42,17 @@ portfolio-website/
 ## Projects Included
 
 ### Travel Explorer
-
 A responsive travel website with a clean card-based layout.
 
 ### Jammu Kashmir Travel Guide
-
 A travel guide website showcasing destinations, food, culture, and traditions of Jammu & Kashmir.
 
 ### VIT Administration Form
-
 A responsive registration form designed for college admission purposes.
 
 ---
 
 ## How to Run the Project
-
 1. Download or clone the repository
 2. Open the project folder
 3. Run the `index.html` file in any browser
@@ -74,7 +70,6 @@ A responsive registration form designed for college admission purposes.
 ---
 
 ## Future Improvements
-
 * Add dark mode
 * Add animations using JavaScript
 * Integrate backend contact form
@@ -82,10 +77,12 @@ A responsive registration form designed for college admission purposes.
 
 ---
 
+## Live Demo
+https://avishi0956.github.io/Portfolio-DProject1/
+
+---
+
 ## Author
-
 Avishi Sharma
-
 GitHub: https://github.com/avishi0956
-
 Email: [avishisharma30@gmail.com](mailto:avishisharma30@gmail.com)
